@@ -1,6 +1,5 @@
-import React, {useState} from "react";
+import React from "react";
 import Translate from "./components/Translate";
-import Dropdown from "./components/Dropdown";
 
 const options = [
   {
